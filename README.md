@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hicham
-- 👀 I’m interested in Spring and jva
-- 🌱 I’m currently learning Spring
+- 👀 I’m interested in Spring and java
+- 🌱 I’m currently learning Spring boot
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me @Hicham02145872
 
